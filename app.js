@@ -43,8 +43,3 @@ createTabla(argv.b,argv.l,argv.h)
 
 // console.log(base)
 // const base = 7
-
-
-
-
-
