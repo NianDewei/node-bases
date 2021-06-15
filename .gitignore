@@ -1,0 +1,3 @@
+# ignorar el contenido de la carpeta out
+out/*.txt
+node_modules/
